@@ -1,0 +1,44 @@
+{
+  "_readme": "Everything inside the 'Commission Brief' modal. Add or remove options freely.",
+  "title": "COMMISSION BRIEF",
+  "projectTypes": [
+    "COMMERCIAL FILM",
+    "ARCHITECTURAL FILM",
+    "FEATURE / SHORT FILM",
+    "MUSIC VIDEO",
+    "DOCUMENTARY",
+    "BRAND CONTENT",
+    "VFX / 3D INSTALLATION"
+  ],
+  "serviceOptions": [
+    "FULL PRODUCTION",
+    "DIRECTING & STORY",
+    "CINEMATOGRAPHY & LIGHTING",
+    "VFX & 3D WORLDS",
+    "COLOR GRADING (ACES)",
+    "DOLBY ATMOS SOUND DESIGN",
+    "HIGH-SPEED 1000FPS CAPTURE",
+    "VIRTUAL PRODUCTION"
+  ],
+  "defaults": {
+    "projectType": "COMMERCIAL FILM",
+    "services": [
+      "FULL PRODUCTION",
+      "CINEMATOGRAPHY & LIGHTING"
+    ],
+    "budget": 95000,
+    "timeline": "Q1 2027"
+  },
+  "budget": {
+    "min": 25000,
+    "max": 350000,
+    "step": 5000,
+    "minLabel": "$25,000 (MIN)",
+    "maxLabel": "$350,000+ (FLAGSHIP)"
+  },
+  "success": {
+    "title": "BRIEF TRANSMITTED",
+    "message": "Our executive production team in {studios} is reviewing your brief. We will respond with an initial treatment and production timeline within 24 hours.",
+    "button": "RETURN TO EXPERIENCE"
+  }
+}

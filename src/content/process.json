@@ -1,0 +1,85 @@
+{
+  "_readme": "'summary' is the text shown in the pinned scroll section. The other fields are kept for case-study pages and future use.",
+  "stages": [
+    {
+      "step": "01",
+      "title": "CONCEPT",
+      "summary": "TREATMENT, STORYBOARDS AND MOOD FILMS THAT TURN YOUR 3D ASSETS INTO A DIRECTED NARRATIVE — BEFORE A SINGLE FRAME IS SHOT",
+      "tagline": "FROM FIRST SPARK TO BLUEPRINT",
+      "description": "Our process begins with deep ideation. We distill raw ideas into a compelling visual narrative, exploring themes, emotional arcs, and structural world-building through detailed storyboarding, visual treatments, and director mood films.",
+      "deliverables": [
+        "Narrative Treatment & Scripting",
+        "Hand-Drawn & 3D Previs Storyboards",
+        "Optical & Color Mood Boards",
+        "Audio Tonal Reference Tracks"
+      ],
+      "gear": "CineTracer / Unreal 5 Previs / Final Draft",
+      "visual": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=1600&auto=format&fit=crop",
+      "schematic": [
+        "TREATMENT 01",
+        "STORYBOARD 02",
+        "LIGHTING DIAGRAM 03"
+      ]
+    },
+    {
+      "step": "02",
+      "title": "PRE-PRODUCTION",
+      "summary": "LOCATION STRATEGY, STUDIO PLANNING, CASTING, VFX PLANNING AND PRODUCTION DESIGN — ENGINEERED TO MERGE LIVE ACTION WITH YOUR VISUALIZATION",
+      "tagline": "BUILDING THE PHYSICAL WORLD",
+      "description": "Precision planning turns vision into reality. We conduct worldwide location scouting, technical camera lens testing, custom physical stage architecture, talent casting, and meticulous safety choreography.",
+      "deliverables": [
+        "Global Location Permits & Logistics",
+        "Custom Lens & Sensor Optical Testing",
+        "Set Construction & Rigging Schematics",
+        "Precision Stunt & Motion Tracking Plan"
+      ],
+      "gear": "Arri Lens Test Projector / Artemis Viewfinder / Shot Designer",
+      "visual": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1600&auto=format&fit=crop",
+      "schematic": [
+        "SCOUTING REEL",
+        "RIGGING MATRIX",
+        "OPTICAL CHART"
+      ]
+    },
+    {
+      "step": "03",
+      "title": "PRODUCTION",
+      "summary": "DIRECTOR LED SHOOTS — IN STUDIO, ON LOCATION, OR HYBRID | PRECISION CHOREOGRAPHY DESIGNED TO MERGE SEAMLESSLY WITH ARCHITECTURAL VISUALIZATION",
+      "tagline": "CAPTURING THE UNREPEATABLE",
+      "description": "On set, every frame is executed with surgical intent. Our elite camera crews, gaffers, and operators command large-format digital cinema bodies, 35mm film cameras, high-speed robotic arms, and high-intensity lighting packages.",
+      "deliverables": [
+        "Raw 4.6K / 8K Uncompressed Masters",
+        "Live ACES On-Set Color Pipeline",
+        "Dolby Atmos Multi-Track Spatial Audio",
+        "Volumetric & Motion Capture Passes"
+      ],
+      "gear": "Arri Alexa 35 / Phantom Flex 4K / Bolt High-Speed Robot / Cooke Anamorphics",
+      "visual": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1600&auto=format&fit=crop",
+      "schematic": [
+        "CAMERA PACKAGE",
+        "DIT PIPELINE",
+        "LIGHTING MATRIX"
+      ]
+    },
+    {
+      "step": "04",
+      "title": "POST-PRODUCTION",
+      "summary": "EDITING, SOUND DESIGN, AND FINAL CINEMATIC POLISH. THE 3D RENDERING STAYS WITH YOUR STUDIO — WE DIRECT THE NARRATIVE AND THE FINAL ASSEMBLY",
+      "tagline": "CRAFTING THE FINAL FRAME",
+      "description": "In the finishing suites, the film finds its ultimate soul. Offline rhythmic editing, photorealistic Houdini VFX simulations, DaVinci Resolve film stock color grading, and custom spatial audio mastering.",
+      "deliverables": [
+        "Final Offline Picture Lock",
+        "Photorealistic CGI & Dynamic VFX",
+        "Dolby Vision HDR & 35mm Print Masters",
+        "Dolby Atmos 7.1.4 Spatial Mix"
+      ],
+      "gear": "DaVinci Resolve Studio / Nuke Studio / Houdini 20.5 / Pro Tools HDX",
+      "visual": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop",
+      "schematic": [
+        "ACES CC GRADE",
+        "HOUDINI PASS",
+        "ATMOS MASTER"
+      ]
+    }
+  ]
+}

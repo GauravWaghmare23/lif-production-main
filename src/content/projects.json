@@ -1,0 +1,254 @@
+{
+  "_readme": "One object per case study. 'video' is a key from videos.json > library. Awards are linked from awards.json using 'slug'. To add a project, copy an object and give it a unique id + slug.",
+  "projects": [
+    {
+      "id": "01",
+      "slug": "after-dark",
+      "title": "AFTER DARK",
+      "category": "COMMERCIAL",
+      "year": "2026",
+      "client": "MAISON NOCTURNE",
+      "director": "ELARA VANCE",
+      "cinematographer": "LIAM CHEN",
+      "camera": "ARRI ALEXA 35 / COOKE ANAMORPHIC /i FULL FRAME PLUS",
+      "aspectRatio": "2.39:1 CINEMASCOPE",
+      "duration": "02:45",
+      "description": "Exploring the boundary between light and shadow. An immersive nocturnal journey into the hidden rhythm of the metropolis after hours.",
+      "heroImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: THE RAIN-SOAKED OVERPASS",
+          "frameNo": "0142"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: NEON REFLECTIONS & TENSION",
+          "frameNo": "0891"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 03: THE EMPTY ALLEYWAY SEQUENCE",
+          "frameNo": "1432"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 04: DAWN APPROACHES OVER THE SKYLINE",
+          "frameNo": "2398"
+        }
+      ],
+      "storyboards": [
+        {
+          "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=1200&auto=format&fit=crop",
+          "step": "SCENE 01",
+          "note": "Establishing wide tracking shot from high-altitude crane. Low key tungsten with amber sodium vapor lighting."
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=1200&auto=format&fit=crop",
+          "step": "SCENE 02",
+          "note": "Close-up on protagonist eyes through wet windscreen. Rack focus to street reflections in 40mm Cooke Anamorphic."
+        }
+      ],
+      "theIdea": "We set out to capture the unseen pulse of a sleepless metropolis. Rather than treating darkness as an absence of light, we sculpted shadows as physical narrative characters.",
+      "theFrame": "Shot entirely on Arri Alexa 35 paired with custom de-tuned Cooke Anamorphic /i Special Flare lenses. The optical flare characteristics lent a melancholic, painterly amber quality to every streetlamp.",
+      "theProcess": "Over six consecutive night shoots across Tokyo's Shinjuku and Golden Gai back-alleys, our crew operated with ultra-compact gimbal rigs, practical haze generators, and specialized LED ribbon rigs hidden inside taxi cabs.",
+      "theFinalCut": "Finished in DaVinci Resolve Studio with a bespoke 35mm Eastman 5219 film emulation grain profile, retaining deep contrast while preserving rich skin tonalities.",
+      "metrics": {
+        "resolution": "4.6K RAW MASTER",
+        "views": "4.2M"
+      },
+      "featured": true,
+      "video": "trafficCity"
+    },
+    {
+      "id": "02",
+      "slug": "aetheria",
+      "title": "AETHERIA",
+      "category": "VFX & 3D",
+      "year": "2026",
+      "client": "ORBITAL SYNDICATE",
+      "director": "KENJI TANAKA",
+      "cinematographer": "LIAM CHEN",
+      "camera": "RED V-RAPTOR XL 8K VV / LEITZ PRIMES",
+      "aspectRatio": "2.00:1 UNIVISIUM",
+      "duration": "03:12",
+      "description": "A sci-fi high-concept fashion film exploring speculative human evolution in zero-gravity synthetic atmospheres.",
+      "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: ZERO-G SILHOUETTE CHAMBER",
+          "frameNo": "0310"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: SYNTHETIC CHROME TRANSCENDENCE",
+          "frameNo": "1104"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 03: ATMOSPHERIC PARTICULATE EMISSION",
+          "frameNo": "1840"
+        }
+      ],
+      "theIdea": "Bridging avant-garde haute couture with photorealistic cosmic simulations, examining how clothing and human form adapt to interstellar environments.",
+      "theFrame": "Hyper-detailed 8K capture combined with physically-based Houdini fluid simulations rendered in Unreal Engine 5.4.",
+      "theProcess": "Volumetric motion capture performances staged against massive 360-degree LED volume stages, allowing practical interactive amber light to bathe the talent.",
+      "theFinalCut": "Paced to an ethereal ambient score produced in-house, blending acoustic cello with sub-bass frequency swells.",
+      "metrics": {
+        "resolution": "8K MONOLITH MASTER",
+        "views": "2.8M"
+      },
+      "featured": true,
+      "video": "space"
+    },
+    {
+      "id": "03",
+      "slug": "velocity",
+      "title": "VELOCITY",
+      "category": "COMMERCIAL",
+      "year": "2025",
+      "client": "APEX MOTORS",
+      "director": "ELARA VANCE",
+      "cinematographer": "LIAM CHEN",
+      "camera": "PHANTOM FLEX 4K / ARRI MASTER ANAMORPHIC",
+      "aspectRatio": "2.39:1 CINEMASCOPE",
+      "duration": "01:45",
+      "description": "An adrenaline-fueled visual poem capturing aerodynamic perfection at 1,000 frames per second on the salt flats of Utah.",
+      "heroImage": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: CARBON FIBER AT SPEED OF SOUND",
+          "frameNo": "0089"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: DUST PLUME VORTEX AT SUNSET",
+          "frameNo": "0712"
+        }
+      ],
+      "theIdea": "Translating raw kinetic horsepower into sensual, liquid movement. We avoided traditional car-commercial clichés in favor of high-speed macro cinematography.",
+      "theFrame": "Shot at 1,000 FPS on the Phantom Flex 4K paired with high-speed tracking Russian Arm camera cranes.",
+      "theProcess": "Four days in extreme heat conditions on the Bonneville Salt Flats with custom aerodynamic camera mounts.",
+      "theFinalCut": "Dynamic speed ramping synchronized to raw analog engine telemetry recordings.",
+      "metrics": {
+        "resolution": "4K HIGH SPEED",
+        "views": "5.6M"
+      },
+      "featured": true,
+      "video": "nightDrive"
+    },
+    {
+      "id": "04",
+      "slug": "echoes-of-silence",
+      "title": "ECHOES OF SILENCE",
+      "category": "DOCUMENTARY",
+      "year": "2025",
+      "client": "ALPINE PRESERVATION GUILD",
+      "director": "ELARA VANCE",
+      "cinematographer": "JOSHUA LEE",
+      "camera": "SONY VENICE 2 / ATLAS ORION ANAMORPHIC",
+      "aspectRatio": "2.39:1 CINEMASCOPE",
+      "duration": "18:20",
+      "description": "An intimate portrait of solitary high-altitude monks surviving the brutal winters of the Zanskar Himalayan range.",
+      "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: THE 4,500M GLACIAL RIDGELINE",
+          "frameNo": "0450"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: STAR TRAILS OVER MONASTERY",
+          "frameNo": "1620"
+        }
+      ],
+      "theIdea": "Documenting the spiritual stillness of one of the most remote inhabited places on Earth before climate shifts permanently alter their ancient way of life.",
+      "theFrame": "Natural light only. Utilizing the Dual Base ISO 3200 of the Sony Venice 2 to capture candlelit prayers and moonlit snowy summits.",
+      "theProcess": "A 4-person expedition crew living self-sustained for 28 days at sub-zero temperatures with solar-recharged batteries.",
+      "theFinalCut": "Spiritual, meditative pacing with real field recordings mixed in Dolby Atmos 7.1.4.",
+      "metrics": {
+        "resolution": "8.6K RAW",
+        "views": "1.4M"
+      },
+      "featured": false,
+      "video": "mountainFog"
+    },
+    {
+      "id": "05",
+      "slug": "chrono-obscura",
+      "title": "CHRONO OBSCURA",
+      "category": "MUSIC VIDEO",
+      "year": "2026",
+      "client": "WARNER RECORDS / VEXOR",
+      "director": "KENJI TANAKA",
+      "cinematographer": "LIAM CHEN",
+      "camera": "ARRI 435 35MM 4-PERF / KODAK VISION3 500T",
+      "aspectRatio": "1.85:1 FLAT",
+      "duration": "04:15",
+      "description": "An avant-garde visual opus blending physical 35mm film manipulation, bleach bypass processing, and reactive laser projections.",
+      "heroImage": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: LASER INTERFERENCE FIELD",
+          "frameNo": "0230"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: 35MM HAND-SCRATCHED CELL",
+          "frameNo": "1410"
+        }
+      ],
+      "theIdea": "Physical destruction and rebirth of analog celluloid. We hand-bleached individual 35mm film strips to manifest visceral psychological unraveling.",
+      "theFrame": "Shot on legendary Kodak Vision3 500T with custom optical prism filters attached directly to the camera matte box.",
+      "theProcess": "Analog photochemical lab processing merged with high-end digital compositing in Flame and Nuke.",
+      "theFinalCut": "Kinetic, rhythmic edit that locks frame transitions to 140 BPM electronic polyrhythms.",
+      "metrics": {
+        "resolution": "4K SCAN 35MM",
+        "views": "9.1M"
+      },
+      "featured": false,
+      "video": "concertLasers"
+    },
+    {
+      "id": "06",
+      "slug": "monolith",
+      "title": "MONOLITH",
+      "category": "FILM",
+      "year": "2025",
+      "client": "STUDIO ARCHETYPE",
+      "director": "ELARA VANCE",
+      "cinematographer": "LIAM CHEN",
+      "camera": "ARRI ALEXA 65 / HASSELBLAD PRIME 65",
+      "aspectRatio": "2.20:1 70MM ASPECT",
+      "duration": "05:40",
+      "description": "A brutalist architectural study exploring monumentality, shadow geometries, and human solitude across modernist concrete structures.",
+      "heroImage": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2000&auto=format&fit=crop",
+      "stills": [
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 01: GEOMETRIC SHADOW INTERSECTION",
+          "frameNo": "0108"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1600&auto=format&fit=crop",
+          "caption": "STILL 02: MONUMENTAL SILHOUETTE",
+          "frameNo": "0980"
+        }
+      ],
+      "theIdea": "Treating monumental concrete architecture as living sculpture. The dialogue between the ephemeral human presence and eternal monolithic stone.",
+      "theFrame": "Large Format 65mm sensor for extraordinary geometric fidelity, vanishing perspective lines, and clean edge-to-edge optical resolution.",
+      "theProcess": "Filmed across iconic brutalist landmarks in London, Berlin, and Brasilia during optimal astronomical shadow alignment windows.",
+      "theFinalCut": "Stately, measured camera tracking moves with pure spatial silence and binaural architectural reverberations.",
+      "metrics": {
+        "resolution": "6.5K 65MM MASTER",
+        "views": "3.1M"
+      },
+      "featured": false,
+      "video": "glassBuilding"
+    }
+  ]
+}

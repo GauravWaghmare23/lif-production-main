@@ -1,0 +1,77 @@
+{
+  "_readme": "Global brand info, navigation, social links and footer. Edit here — no code changes needed.",
+  "brand": {
+    "name": "LOST IN FRAME",
+    "tagline": "We don't make content. We create worlds.",
+    "founded": 2018,
+    "year": 2026,
+    "studios": [
+      "Tokyo",
+      "Los Angeles"
+    ],
+    "descriptor": "MEDIA PRODUCTION HOUSE"
+  },
+  "nav": [
+    {
+      "label": "About",
+      "target": "about"
+    },
+    {
+      "label": "Work",
+      "target": "work"
+    },
+    {
+      "label": "Services",
+      "target": "services"
+    },
+    {
+      "label": "Team",
+      "target": "team"
+    }
+  ],
+  "cta": {
+    "header": "CONTACT",
+    "mobile": "CONTACT STUDIO",
+    "footer": "CONTACT STUDIO",
+    "manifesto": "INITIATE A COLLABORATION",
+    "soundOn": "SOUND ON",
+    "soundOff": "SOUND OFF"
+  },
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com"
+    },
+    {
+      "name": "IMDb",
+      "url": "https://imdb.com"
+    }
+  ],
+  "footer": {
+    "eyebrow": "[ INITIATE PRODUCTION ]",
+    "headline": [
+      "Have a story",
+      "worth telling?"
+    ],
+    "copyright": "© 2026 LOST IN FRAME. ALL RIGHTS RESERVED.",
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "url": "#"
+      },
+      {
+        "label": "Cookies Policy",
+        "url": "#"
+      }
+    ],
+    "backToTop": "BACK TO TOP"
+  }
+}

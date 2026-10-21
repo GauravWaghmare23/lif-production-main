@@ -1,0 +1,75 @@
+{
+  "_readme": "Capabilities list. 'video' is a key from videos.json > library. Numbers (01, 02…) are generated from the order.",
+  "services": [
+    {
+      "id": "01",
+      "title": "ARCHITECTURE",
+      "subtitle": "SPATIAL / VISUALIZATION",
+      "description": "Cinematic architectural visualization built around atmosphere, scale, materiality and movement. We transform spaces into visual narratives that communicate design before it exists.",
+      "tags": [
+        "Architectural Film",
+        "3D Visualization",
+        "Motion Design",
+        "Environment",
+        "Look Development"
+      ],
+      "video": "buildingReflections"
+    },
+    {
+      "id": "02",
+      "title": "CINEMA",
+      "subtitle": "FILM / DIRECTION",
+      "description": "From concept to final frame, we create cinematic productions with a strong visual language. Every shot is designed around composition, movement, light and emotion.",
+      "tags": [
+        "Direction",
+        "Cinematography",
+        "Commercial Film",
+        "Storytelling",
+        "Editing"
+      ],
+      "video": "womanInBuilding"
+    },
+    {
+      "id": "03",
+      "title": "MOTION",
+      "subtitle": "CGI / VFX / ANIMATION",
+      "description": "Motion systems that combine physical cinematography with digital environments. We use CGI, VFX and animation to create impossible perspectives and controlled visual experiences.",
+      "tags": [
+        "CGI",
+        "VFX",
+        "3D Animation",
+        "Compositing",
+        "Motion Graphics"
+      ],
+      "video": "digitalCity"
+    },
+    {
+      "id": "04",
+      "title": "BRANDING",
+      "subtitle": "IDENTITY / CAMPAIGNS",
+      "description": "Visual identities and campaigns engineered for attention. We connect brand strategy with cinematic imagery, motion and distinctive art direction.",
+      "tags": [
+        "Art Direction",
+        "Brand Films",
+        "Campaigns",
+        "Identity",
+        "Visual Systems"
+      ],
+      "video": "cityTraffic"
+    },
+    {
+      "id": "05",
+      "title": "EXPERIENCE",
+      "subtitle": "INTERACTIVE / DIGITAL",
+      "description": "Interactive digital experiences where design, motion and technology operate as one system. Built to feel responsive, immersive and intentional.",
+      "tags": [
+        "Web Experience",
+        "Creative Development",
+        "Interaction",
+        "WebGL",
+        "Digital Art"
+      ],
+      "video": "neonCity"
+    }
+  ]
+}

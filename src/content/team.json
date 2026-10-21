@@ -1,0 +1,112 @@
+{
+  "_readme": "Crew roster. Keep names identical to the 'director' / 'cinematographer' fields in projects.json.",
+  "team": [
+    {
+      "id": "elara-vance",
+      "name": "ELARA VANCE",
+      "role": "CREATIVE DIRECTOR & CO-FOUNDER",
+      "department": "CREATIVE LEADERSHIP",
+      "portrait": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Former documentary filmmaker and fashion photographer. Oversees all overarching creative vision and tonal consistency across LOST IN FRAME productions.",
+      "credits": [
+        "AFTER DARK (2026)",
+        "MONOLITH (2025)",
+        "ECHOES OF SILENCE (2025)",
+        "CANNES LIONS JURY 2024"
+      ]
+    },
+    {
+      "id": "liam-chen",
+      "name": "LIAM CHEN",
+      "role": "DIRECTOR OF PHOTOGRAPHY",
+      "department": "CAMERA & LIGHTING",
+      "portrait": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Member of the Cinematographers Guild with 14 years behind large-format Arri and 35mm cameras. Specialist in high-speed optical capture and low-light street cinematography.",
+      "credits": [
+        "AFTER DARK (2026)",
+        "AETHERIA (2026)",
+        "MONOLITH (2025)",
+        "VELOCITY (2025)",
+        "PORSCHE 911 GLOBAL"
+      ]
+    },
+    {
+      "id": "sophia-bennett",
+      "name": "SOPHIA BENNETT",
+      "role": "EXECUTIVE PRODUCER",
+      "department": "PRODUCTION & LOGISTICS",
+      "portrait": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Veteran producer managing multi-million dollar global campaigns across North America, Europe, and Asia. Specializes in complex multi-country location permitting and stunt safety.",
+      "credits": [
+        "AETHERIA (2026)",
+        "SONY BRAVIA 8K CAMPAIGN",
+        "ALPINE EXPEDITION DOCUMENTARY"
+      ]
+    },
+    {
+      "id": "kenji-tanaka",
+      "name": "KENJI TANAKA",
+      "role": "HEAD OF VFX & 3D WORLDS",
+      "department": "POST & VIRTUAL PRODUCTION",
+      "portrait": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Pioneered procedural Houdini particle dynamics and real-time LED volume virtual production pipelines. Part of the team behind the UK Music Video Awards winner CHRONO OBSCURA.",
+      "credits": [
+        "AETHERIA (2026)",
+        "CHRONO OBSCURA (2026)",
+        "UNREAL ENGINE TECH DEMO 2025"
+      ]
+    },
+    {
+      "id": "chloe-dubois",
+      "name": "CHLOE DUBOIS",
+      "role": "ART DIRECTOR & PRODUCTION DESIGNER",
+      "department": "ART DEPARTMENT",
+      "portrait": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Architectural graduate turned production designer. Creates physical studio sets, custom props, and sculptural environments that challenge traditional spatial dimensions.",
+      "credits": [
+        "MONOLITH (2025)",
+        "MAISON NOCTURNE SHOWROOM",
+        "SAINT LAURENT SCULPTURAL STAGE"
+      ]
+    },
+    {
+      "id": "marco-rossi",
+      "name": "MARCO ROSSI",
+      "role": "LEAD SOUND DESIGNER & COMPOSER",
+      "department": "AUDIO & DOLBY ATMOS",
+      "portrait": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Analog modular synth purist and certified Dolby Atmos mix engineer. Composes custom acoustic-electronic hybrid film scores that drive physical emotional impact.",
+      "credits": [
+        "AFTER DARK OST",
+        "ECHOES OF SILENCE 7.1.4",
+        "WARNER RECORDS SPATIAL MIXES"
+      ]
+    },
+    {
+      "id": "luna-kim",
+      "name": "LUNA KIM",
+      "role": "LEAD MOTION DESIGNER",
+      "department": "MOTION & INTERACTIVE",
+      "portrait": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Bridges graphic design, typography, and 3D kinetic interaction. Designs award-winning title sequences and interactive digital installations.",
+      "credits": [
+        "LOST IN FRAME TITLE SEQUENCE",
+        "AETHERIA TITLES",
+        "AWWWARDS SOTD JURY"
+      ]
+    },
+    {
+      "id": "david-peters",
+      "name": "DAVID PETERS",
+      "role": "SENIOR FILM EDITOR",
+      "department": "EDITORIAL",
+      "portrait": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1200&auto=format&fit=crop",
+      "bio": "Rhythmic film editor known for unconventional pacing, split-second match cuts, and tension-building narrative pacing.",
+      "credits": [
+        "VELOCITY FINAL CUT",
+        "CHRONO OBSCURA",
+        "TRIBECA DOC CUT 2025"
+      ]
+    }
+  ]
+}

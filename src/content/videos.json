@@ -1,0 +1,108 @@
+{
+  "_readme": "Central video registry. Add a file once under 'library', then reference it by key everywhere else. Local files live in /public (use paths starting with '/').",
+  "library": {
+    "heroLocal": "/videos/hero-video.mp4",
+    "nightDrive": "https://assets.mixkit.co/videos/preview/mixkit-car-driving-through-the-streets-of-a-city-at-night-42861-large.mp4",
+    "neonCity": "https://assets.mixkit.co/videos/preview/mixkit-futuristic-city-with-neon-lights-39763-large.mp4",
+    "trafficCity": "https://assets.mixkit.co/videos/preview/mixkit-futuristic-city-with-traffic-lights-at-night-41551-large.mp4",
+    "space": "https://assets.mixkit.co/videos/preview/mixkit-stars-in-space-background-1610-large.mp4",
+    "mountainFog": "https://assets.mixkit.co/videos/preview/mixkit-mountain-landscape-with-fog-and-snow-41584-large.mp4",
+    "concertLasers": "https://assets.mixkit.co/videos/preview/mixkit-laser-lights-at-a-music-concert-42845-large.mp4",
+    "glassBuilding": "https://assets.mixkit.co/videos/preview/mixkit-modern-building-with-glass-facade-41558-large.mp4",
+    "womanInBuilding": "https://assets.mixkit.co/videos/preview/mixkit-woman-walking-in-a-modern-building-39852-large.mp4",
+    "buildingReflections": "https://assets.mixkit.co/videos/preview/mixkit-modern-building-with-reflections-1157-large.mp4",
+    "digitalCity": "https://assets.mixkit.co/videos/preview/mixkit-digital-animation-of-a-futuristic-city-39871-large.mp4",
+    "cityTraffic": "https://assets.mixkit.co/videos/preview/mixkit-city-traffic-at-night-11-large.mp4"
+  },
+  "hero": {
+    "mainBg": "heroLocal",
+    "fallbackBg": "nightDrive",
+    "reelOverlay": "neonCity"
+  },
+  "showreel": {
+    "main": "nightDrive",
+    "chapters": [
+      {
+        "id": "fashion",
+        "title": "FASHION & LUXURY",
+        "duration": "01:24",
+        "video": "womanInBuilding"
+      },
+      {
+        "id": "cyberpunk",
+        "title": "CYBERPUNK / SCI-FI",
+        "duration": "02:10",
+        "video": "neonCity"
+      },
+      {
+        "id": "automotive",
+        "title": "AUTOMOTIVE & HIGH SPEED",
+        "duration": "01:45",
+        "video": "nightDrive"
+      },
+      {
+        "id": "architecture",
+        "title": "SPATIAL & ARCHITECTURE",
+        "duration": "00:58",
+        "video": "glassBuilding"
+      },
+      {
+        "id": "concerts",
+        "title": "LIVE EXPERIENCES & STAGE",
+        "duration": "03:15",
+        "video": "concertLasers"
+      }
+    ]
+  },
+  "mosaic": {
+    "hero": "nightDrive",
+    "heroLocal": "heroLocal",
+    "tiles": [
+      {
+        "id": "mosaic-1",
+        "title": "NOCTURNAL DRIFT",
+        "video": "nightDrive"
+      },
+      {
+        "id": "mosaic-2",
+        "title": "AETHERIA VISIONS",
+        "video": "space"
+      },
+      {
+        "id": "mosaic-3",
+        "title": "FUTURISTIC METROPOLIS",
+        "video": "trafficCity"
+      },
+      {
+        "id": "mosaic-4",
+        "title": "ALPINE EXPEDITION",
+        "video": "mountainFog"
+      },
+      {
+        "id": "mosaic-5",
+        "title": "LASER CONCERT RAVE",
+        "video": "concertLasers"
+      },
+      {
+        "id": "mosaic-6",
+        "title": "GLASS MONOLITH",
+        "video": "glassBuilding"
+      }
+    ]
+  },
+  "horizontalCards": [
+    "nightDrive",
+    "trafficCity",
+    "space",
+    "mountainFog",
+    "concertLasers"
+  ],
+  "filmstrip": [
+    "nightDrive",
+    "trafficCity",
+    "space",
+    "mountainFog",
+    "concertLasers",
+    "glassBuilding"
+  ]
+}

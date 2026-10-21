@@ -1,0 +1,250 @@
+{
+  "_readme": "ORDER of the page = the 'order' array below (move an id up/down to reorder). 'numbered' sections get an automatic 01, 02, 03… number so numbering never clashes. 'nav:true' puts the section in the side dot-navigation. Every text label of every section lives in 'items'.",
+  "order": [
+    "hero",
+    "statement",
+    "manifesto",
+    "showreel",
+    "work",
+    "services",
+    "process",
+    "stats",
+    "awards",
+    "clients",
+    "team",
+    "archive"
+  ],
+  "items": {
+    "hero": {
+      "label": "Intro",
+      "nav": true,
+      "numbered": false,
+      "headline": [
+        [
+          {
+            "text": "Visualization",
+            "style": "plain"
+          },
+          {
+            "text": "shows.",
+            "style": "dim"
+          }
+        ],
+        [
+          {
+            "text": "cinema",
+            "style": "plain"
+          },
+          {
+            "text": "sells.",
+            "style": "accent"
+          }
+        ]
+      ],
+      "subheadline": [
+        "Cinematic direction for luxury real estate",
+        "global brands."
+      ],
+      "subheadlineJoiner": "&",
+      "exploreLabel": "Scroll to explore",
+      "scrollTag": "[ SCROLL TO EXPLORE ]",
+      "sideLabel": "FRAME / MOTION / LIGHT"
+    },
+    "statement": {
+      "label": "Studio",
+      "nav": true,
+      "numbered": false,
+      "headerLeft": "LOST IN FRAME CREATIVES",
+      "headerRight": "[ DIRECTION & PRODUCTION ]",
+      "lineOne": "Director led.",
+      "lineTwo": "Studio built.",
+      "paragraphIntro": "Most architectural visualization delivers precision. But precision no longer differentiates.",
+      "paragraphBody": [
+        "Luxury developments compete on perception, desire, & positioning.",
+        "is a director-led studio creating cinematic campaigns for luxury real estate and global brands."
+      ],
+      "paragraphClosing": "We direct the film that defines their impact.",
+      "finalEyebrow": "[ LOST IN FRAME ]",
+      "finalTitle": "WE CREATE WORLDS.",
+      "progressLabel": "SCROLL PROGRESS"
+    },
+    "manifesto": {
+      "label": "Manifesto",
+      "nav": false,
+      "numbered": false,
+      "leftEyebrow": "POSITIONING STATEMENT",
+      "leftTitle": [
+        "WHERE OTHERS DELIVER VISUAL PERFECTION,",
+        "WE DELIVER EMOTIONAL AUTHORITY."
+      ],
+      "rightEyebrow": "[ THE CINEMATIC PRINCIPLE ]",
+      "rightTitle": [
+        "A LUXURY DEVELOPMENT IS NOT A BROCHURE.",
+        "IT IS A POSITIONING STATEMENT."
+      ],
+      "columns": [
+        {
+          "title": "PERFECTION IS COMMODITIZED",
+          "accent": false,
+          "body": "AI gives everyone the exact same precision. But precision was never the product. What sells a luxury development is desire."
+        },
+        {
+          "title": "[ AND DESIRE REQUIRES DIRECTION ]",
+          "accent": true,
+          "body": "Atmosphere, pacing, lighting, sound design, and emotional choreography turn raw 3D renders into positioning power."
+        },
+        {
+          "title": "CINEMATIC CAMPAIGNS",
+          "accent": false,
+          "body": "A cinematic campaign doesn't compete with 3D work. It turns visualization into a high-impact global campaign."
+        }
+      ],
+      "giantLine": "THE 3D IS READY.",
+      "giantAccent": "NOW IT NEEDS A FILM."
+    },
+    "showreel": {
+      "label": "Showreel",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "SHOWREEL 2026",
+      "eyebrowRight": "4K / 24FPS / ANAMORPHIC SCOPE",
+      "caption": "A cinematic study in motion, architecture and atmosphere.",
+      "badge": [
+        "ARRI RAW",
+        "4.6K SCOPE"
+      ],
+      "cutLabel": "DIRECTORS CUT",
+      "frameLabel": "FRAME / 02",
+      "formatLabel": "FORMAT",
+      "formatValue": "4K UHD / 24 FPS",
+      "directionLabel": "DIRECTION",
+      "directionValue": "Director-led cinematic production.",
+      "exploreLabel": "EXPLORE",
+      "exploreValue": "Scroll to enter the frame"
+    },
+    "work": {
+      "label": "Work",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "SELECTED WORK",
+      "titleLine1": "Selected",
+      "titleLine2": "Projects.",
+      "intro": "Scale and performance directed in collaboration with leading studios, brands, artists and architectural teams.",
+      "viewCta": "VIEW CASE STUDY",
+      "clientLabel": "CLIENT",
+      "directorLabel": "DIRECTOR",
+      "durationLabel": "DURATION",
+      "endLabel": "END OF SELECTED WORK"
+    },
+    "services": {
+      "label": "Services",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "CAPABILITIES",
+      "title": "What we do",
+      "tagline": [
+        "Direction / Production / VFX",
+        "Built for visual impact."
+      ],
+      "selectLabel": "Select discipline",
+      "competenciesLabel": "Key competencies",
+      "cta": "Start a conversation",
+      "footerLabel": "Full spectrum production"
+    },
+    "process": {
+      "label": "Process",
+      "nav": true,
+      "numbered": false,
+      "sideLabel": "LOST IN FRAME / PRODUCTION PROCESS",
+      "stageLabel": "STAGE",
+      "footerLeft": "WE ARCHITECT THE ENTIRE CINEMATIC EXPERIENCE.",
+      "footerMid": "SCROLL TO EXPLORE",
+      "footerRight": "KEEP MOVING ↓"
+    },
+    "stats": {
+      "label": "Numbers",
+      "nav": false,
+      "numbered": false,
+      "title": "BY THE NUMBERS",
+      "hoverLabel": "[ HOVER FRAME ]"
+    },
+    "awards": {
+      "label": "Awards",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "RECOGNITION",
+      "eyebrowRight": "CINEMA / ARCHITECTURE / VISION",
+      "titleWord1": "AWARDS",
+      "titleWord2": "ACCOLADES",
+      "footerLabel": "RECOGNITION"
+    },
+    "clients": {
+      "label": "Clients",
+      "nav": false,
+      "numbered": true,
+      "eyebrow": "SELECTED CLIENTS",
+      "title": "TRUSTED BY",
+      "rightTop": "BRANDS / PARTNERS / CLIENTS",
+      "rightBottom": "MOVING THROUGH FRAME",
+      "bottomLeft": "CONTINUOUS MOTION / 01",
+      "bottomMid": "SCROLL TO DISPLACE",
+      "bottomRight": "24FPS"
+    },
+    "team": {
+      "label": "Team",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "BEHIND THE FRAME",
+      "eyebrowRight": "STUDIO DIRECTORS & CREW",
+      "rosterLabel": "PRINCIPAL CREW",
+      "departmentLabel": "DEPARTMENT"
+    },
+    "archive": {
+      "label": "Archive",
+      "nav": true,
+      "numbered": true,
+      "eyebrow": "MOTION STUDIES",
+      "eyebrowRight": "SELECTED DIRECTORIAL FRAMES",
+      "archiveEyebrow": "MOTION ARCHIVE",
+      "archiveHint": "SCROLL HORIZONTALLY",
+      "archiveEnd": "END OF ARCHIVE",
+      "archiveSide": "HORIZONTAL / MOTION / STUDIES",
+      "viewProject": "VIEW PROJECT",
+      "closingLine": "create with us",
+      "keepMoving": "KEEP MOVING"
+    },
+    "modal": {
+      "close": "CLOSE (ESC)",
+      "specsTitle": "TECHNICAL PRODUCTION SPECIFICATIONS",
+      "director": "DIRECTOR",
+      "cinematography": "CINEMATOGRAPHY",
+      "camera": "CAMERA PACKAGE",
+      "aspect": "ASPECT RATIO",
+      "honors": "HONORS & ACCOLADES",
+      "format": "MASTER FORMAT",
+      "chapters": [
+        {
+          "eyebrow": "01 // THE IDEA",
+          "title": "Conception & Narrative Motifs"
+        },
+        {
+          "eyebrow": "02 // THE FRAME",
+          "title": "Optical Architecture & Lighting"
+        },
+        {
+          "eyebrow": "03 // THE PROCESS",
+          "title": "Execution & Physical Production"
+        },
+        {
+          "eyebrow": "04 // THE FINAL CUT",
+          "title": "Post-Production & Sound Architecture"
+        }
+      ],
+      "stillsTitle": "CINEMATOGRAPHY STILLS GALLERY",
+      "framesArchived": "FRAMES ARCHIVED",
+      "nextEyebrow": "CONTINUE THE ODYSSEY",
+      "nextPrefix": "NEXT FRAME:",
+      "nextButton": "ENTER NEXT FRAME"
+    }
+  }
+}

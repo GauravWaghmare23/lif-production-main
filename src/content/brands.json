@@ -1,0 +1,65 @@
+{
+  "_readme": "Single client list used by the 'Trusted by' marquee. Replace with your real clients.",
+  "brands": [
+    {
+      "name": "PORSCHE AG",
+      "category": "AUTOMOTIVE",
+      "year": "2026"
+    },
+    {
+      "name": "SONY CINEALTA",
+      "category": "TECHNOLOGY",
+      "year": "2026"
+    },
+    {
+      "name": "SAINT LAURENT",
+      "category": "HAUTE COUTURE",
+      "year": "2025"
+    },
+    {
+      "name": "WARNER RECORDS",
+      "category": "ENTERTAINMENT",
+      "year": "2026"
+    },
+    {
+      "name": "RED BULL MEDIA HOUSE",
+      "category": "SPORTS & ADVENTURE",
+      "year": "2025"
+    },
+    {
+      "name": "A24 FILMS",
+      "category": "CINEMA",
+      "year": "2025"
+    },
+    {
+      "name": "NIKE INNOVATION",
+      "category": "SPORTSWEAR",
+      "year": "2026"
+    },
+    {
+      "name": "VOGUE INTERNATIONAL",
+      "category": "EDITORIAL",
+      "year": "2025"
+    },
+    {
+      "name": "LEICA CAMERA",
+      "category": "OPTICS",
+      "year": "2026"
+    },
+    {
+      "name": "UNREAL ENGINE / EPIC",
+      "category": "VIRTUAL PRODUCTION",
+      "year": "2025"
+    },
+    {
+      "name": "BALENCIAGA",
+      "category": "LUXURY",
+      "year": "2025"
+    },
+    {
+      "name": "ARRI CINEMA",
+      "category": "OPTICAL SYSTEMS",
+      "year": "2026"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_readme": "Awards shown in the Awards section AND the project case-study modal (via 'slug'). 'total' is the full count used in the footer line.",
+  "total": 14,
+  "items": [
+    {
+      "slug": "after-dark",
+      "year": "2026",
+      "organization": "CANNES LIONS INTERNATIONAL FESTIVAL OF CREATIVITY",
+      "category": "[ Gold Lion — Film Craft ]",
+      "honor": "WINNER — CANNES LIONS GOLD 2026"
+    },
+    {
+      "slug": "aetheria",
+      "year": "2026",
+      "organization": "THE FWA & AWWWARDS",
+      "category": "[ FWA of the Day · Awwwards Site of the Day ]",
+      "honor": "FWA OF THE DAY / AWWWARDS SOTD"
+    },
+    {
+      "slug": "chrono-obscura",
+      "year": "2026",
+      "organization": "UK MUSIC VIDEO AWARDS",
+      "category": "[ Best Cinematography ]",
+      "honor": "UKMVA BEST CINEMATOGRAPHY 2026"
+    },
+    {
+      "slug": "velocity",
+      "year": "2025",
+      "organization": "AICP AWARDS",
+      "category": "[ Gold — Automotive Commercial ]",
+      "honor": "AICP GOLD WINNER 2025"
+    },
+    {
+      "slug": "echoes-of-silence",
+      "year": "2025",
+      "organization": "TRIBECA FESTIVAL",
+      "category": "[ Gold — Documentary Short ]",
+      "honor": "TRIBECA FILM FESTIVAL GOLD"
+    },
+    {
+      "slug": "monolith",
+      "year": "2025",
+      "organization": "WORLD ARCHITECTURE FILM AWARDS",
+      "category": "[ Gold — Architectural Film ]",
+      "honor": "WORLD ARCHITECTURE FILM GOLD"
+    }
+  ]
+}
